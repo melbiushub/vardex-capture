@@ -1,8 +1,7 @@
 """
-vardex_capture.py — packet capture subprocess for Vardex (Melbius Security)
+vardex_capture.py — packet capture subprocess for Vardex
 
 Copyright (C) 2026  The Trustee for THE THREE WANDERERS TRUST
-(trading as Melbius Security)
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of the GNU General Public License as published by the

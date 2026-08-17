@@ -1,6 +1,6 @@
 # vardex-capture
 
-**Packet capture subprocess for [Vardex](https://melbius.com) — Melbius Security**
+**Packet capture subprocess for [Vardex](https://melbius.com)**
 
 This repository contains the open-source packet capture component of Vardex,
 published under the GNU General Public License v2 to comply with Scapy's
@@ -129,5 +129,5 @@ its only job is reliable packet capture and clean JSON output.
 
 ---
 
-*Part of [Vardex](https://melbius.com) by Melbius Security — a trading name
-of The Trustee for THE THREE WANDERERS TRUST.*
+*Part of [Vardex](https://melbius.com) by The Trustee for THE THREE
+WANDERERS TRUST.*
